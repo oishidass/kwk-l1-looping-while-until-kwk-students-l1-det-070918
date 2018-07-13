@@ -1,9 +1,7 @@
-tags:
-  - readme
-  - looping
-  - while
-  - until
-languages:
-  - ruby
-resources: 0
-parent_template: git@github.com:learn-co-curriculum/looping-while-until.git
+class Music
+
+
+def initialize(name,type ="music")
+@name = music
+@type = type
+puts "#these#{name} #{type}
